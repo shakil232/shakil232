@@ -9,7 +9,7 @@
 
 [My Resume](https://drive.google.com/file/d/1tG332TpwBVRd6T1RYymNMAirX9ASGW1x/view?usp=sharing)
 
-https://drive.google.com/file/d/1qUEd0uxi2DQ1ekGePADl9PLfMqoHDg5Q/view?usp=sharing
+<img scr="https://drive.google.com/file/d/1qUEd0uxi2DQ1ekGePADl9PLfMqoHDg5Q/view?usp=sharing">
 
 [My Resume](https://drive.google.com/file/d/1qUEd0uxi2DQ1ekGePADl9PLfMqoHDg5Q/view?usp=sharing)
 
