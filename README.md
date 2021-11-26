@@ -9,7 +9,9 @@
 
 [My Resume](https://drive.google.com/file/d/1tG332TpwBVRd6T1RYymNMAirX9ASGW1x/view?usp=sharing)
 
-<img src="https://drive.google.com/file/d/1qUEd0uxi2DQ1ekGePADl9PLfMqoHDg5Q/view?usp=sharing">
+<p><img src="https://drive.google.com/file/d/1qUEd0uxi2DQ1ekGePADl9PLfMqoHDg5Q/view?usp=sharing"></p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"
 
 
 
