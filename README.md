@@ -14,7 +14,7 @@
 [My Portfolio](https://personal-portfolio-67ed7.web.app/)
 
 
-- 👨‍💻 You can see some of my projects on (https://personal-portfolio-67ed7.web.app/](https://personal-portfolio-67ed7.web.app/)
+- 👨‍💻 You can see some of my projects on [My Portfoli](https://personal-portfolio-67ed7.web.app/](https://personal-portfolio-67ed7.web.app/)
 
 - 📄 Know about my experiences (https://docs.google.com/document/d/1UNBDxLCk9MdVdtD3XjQKot2gl2LBz-uBryrdGRheQYM/edit?usp=sharing)
 
