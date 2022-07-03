@@ -1,5 +1,5 @@
 
-<img  src="[https://i.ibb.co/Bch72ns/github-p.png](https://i.ibb.co/tBFDdy0/pngtree-programmers-code-the-website-from-the-command-line-flat-vector-illustration-png-image-415770.jpg)" />
+<img  src="https://i.ibb.co/tBFDdy0/pngtree-programmers-code-the-website-from-the-command-line-flat-vector-illustration-png-image-415770.jpg" />
 
 ### Hi there 👋
 ## I'm [ Mohammad Shakil Ahmed](https://personal-portfolio-67ed7.web.app/)
