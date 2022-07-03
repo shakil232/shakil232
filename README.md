@@ -1,5 +1,5 @@
 
-<img align="left" src="https://i.ibb.co/3178XK0/github-p.png" />
+<img  src="https://i.ibb.co/3178XK0/github-p.png" />
 
 ### Hi there 👋
 ## I'm [ Mohammad Shakil Ahmed](https://personal-portfolio-67ed7.web.app/)
