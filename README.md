@@ -1,5 +1,5 @@
 
-<img height="50" src="https://i.ibb.co/Kbw77zM/why-choose-front-end-developer-indylogix-solutions.png" />
+<img height="75" alignItem="center" src="https://i.ibb.co/Kbw77zM/why-choose-front-end-developer-indylogix-solutions.png" />
 
 ### Hi there 👋
 ## I'm [ Mohammad Shakil Ahmed](https://personal-portfolio-67ed7.web.app/)
