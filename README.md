@@ -1,5 +1,5 @@
 
-<img  src="https://i.ibb.co/3178XK0/github-p.png" />
+<img align="center"  src="https://i.ibb.co/3178XK0/github-p.png" />
 <h3 align="center">I'm [Mohammad Shakil Ahmed](https://personal-portfolio-67ed7.web.app/)</h3>
 <h3 align="center">I'm [ Mohammad Shakil Ahmed](https://personal-portfolio-67ed7.web.app/)😎👋</h3>
 
