@@ -28,4 +28,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakil232&theme=tokyonight)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakil232&show_icons=true&locale=en" alt="shakil232" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shakil232ra&repo=github-readme-stats)]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shakil232&count_private=true&show_icons=true&theme=radical" />
+</a>
