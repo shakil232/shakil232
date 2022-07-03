@@ -3,15 +3,14 @@
 
 ### Hi there 👋
 ## I'm [ Mohammad Shakil Ahmed](https://personal-portfolio-67ed7.web.app/)
-### Front-end Web Developer
+### About me
 
 
 
-###About me
 <p>I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3, and JavaScript (Es6) . I am a quick learner. I believe in hard work and efficiency . That’s why I am  always ready to accomplish any task by working hard. I am always ready to learn any technology or language. I am sincere about my work to achieve my goals anyway.</p>
 
 
-[###MY RESUME](https://docs.google.com/document/d/1UNBDxLCk9MdVdtD3XjQKot2gl2LBz-uBryrdGRheQYM/edit?usp=sharing) <br>
+[MY RESUME](https://docs.google.com/document/d/1UNBDxLCk9MdVdtD3XjQKot2gl2LBz-uBryrdGRheQYM/edit?usp=sharing) <br>
 [MY PORTFOLIO](https://personal-portfolio-67ed7.web.app/)
 
 
