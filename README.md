@@ -29,3 +29,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakil232&show_icons=true&locale=en" alt="shakil232" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakil232&show_icons=true&theme=radical)
