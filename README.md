@@ -7,12 +7,12 @@
 
 
 
-
+###About me
 <p>I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3, and JavaScript (Es6) . I am a quick learner. I believe in hard work and efficiency . That’s why I am  always ready to accomplish any task by working hard. I am always ready to learn any technology or language. I am sincere about my work to achieve my goals anyway.</p>
 
 
-###[MY RESUME](https://docs.google.com/document/d/1UNBDxLCk9MdVdtD3XjQKot2gl2LBz-uBryrdGRheQYM/edit?usp=sharing) <br>
-###[MY PORTFOLIO](https://personal-portfolio-67ed7.web.app/)
+[###MY RESUME](https://docs.google.com/document/d/1UNBDxLCk9MdVdtD3XjQKot2gl2LBz-uBryrdGRheQYM/edit?usp=sharing) <br>
+[MY PORTFOLIO](https://personal-portfolio-67ed7.web.app/)
 
 
 
@@ -27,7 +27,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakil232&theme=tokyonight)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakil232&show_icons=true&locale=en" alt="shakil232" /></p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shakil232&count_private=true&show_icons=true&theme=radical" />
 </a>
