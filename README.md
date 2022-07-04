@@ -1,9 +1,9 @@
 
-<!-- <img align="center"  src="https://i.ibb.co/3178XK0/github-p.png" /> -->
-<div align="center">
+
+<div align="center" style="margin-top: 5px">
 <img src="https://i.ibb.co/3178XK0/github-p.png" align="center" style="width: 50%, height:50%" />
 </div> 
-<div align="center">Hey there, I'm Mohammad Shakil Ahmed</div>  
+<div align="center" style="margin-buttom: 5px"><h2> Hey there, I'm Mohammad Shakil Ahmed </h2></div>  
 
 ### About me
 <p>I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3, and JavaScript (Es6) . I am a quick learner. I believe in hard work and efficiency . That’s why I am  always ready to accomplish any task by working hard. I am always ready to learn any technology or language. I am sincere about my work to achieve my goals anyway.</p>
