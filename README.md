@@ -1,7 +1,7 @@
 
 <!-- <img align="center"  src="https://i.ibb.co/3178XK0/github-p.png" /> -->
 <div align="center">
-<img src="https://i.ibb.co/3178XK0/github-p.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/3178XK0/github-p.png" align="center" style="width: 50%, height:50%" />
 </div> 
 <div align="center">Hey there, I'm Mohammad Shakil Ahmed</div>  
 
