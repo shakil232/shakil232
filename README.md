@@ -6,12 +6,12 @@
 <div align="center" style="margin-buttom: 5px"><h3> Hey there, I'm Mohammad Shakil Ahmed 👋😎 </h3></div>  
 
 ### About me
-<p>I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3, and JavaScript (Es6) . I am a quick learner. I believe in hard work and efficiency . That’s why I am  always ready to accomplish any task by working hard. I am always ready to learn any technology or language. I am sincere about my work to achieve my goals anyway.</p>
+<p>I am a Front-end  Web Developer. I am working with React.js and have basic knowledge of Node.js and MongoDB. I am a quick learner & I am always ready to learn any technology or language. I am sincere about my work to achieve my goals anyway.</p>
 
 
 
 - 👨‍💻 You can see some of my projects on [my portfolio](https://personal-portfolio-67ed7.web.app/)
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1hyTlZRtQr2lzQ7wL1WGS1xqUycoNuNRD/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1pNJi9mWi-wDBaQZ1OKbJGKxBFY4wQuj1/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
